@@ -13,7 +13,7 @@ The **Legal Product Suite** is a comprehensive conversational AI assistant desig
 - **🤖 Conversational Legal Document Drafting**: Interactive document creation with intelligent follow-up questions
 - **🔍 Real-time Legal Clarification**: Fetch and summarize legal information from trusted sources
 - **📄 Document-Based Q&A**: Upload legal documents and ask context-specific questions using RAG (Retrieval-Augmented Generation)
-
+- **Demo Video Link**: https://drive.google.com/file/d/1AxW-QUxbayAefQLyBdAxm0rOTI4Cg616/view?usp=sharing
 ## 📋 Table of Contents
 
 - [Architecture Overview](#architecture-overview)
